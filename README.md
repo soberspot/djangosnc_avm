@@ -1,0 +1,1 @@
+djangosnc_avm
